@@ -1,1 +1,2 @@
-# DevOps-certification-one
+# Edureka DevOps WebApp
+Certification Project for Edureka DevOps
